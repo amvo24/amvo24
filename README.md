@@ -1,4 +1,4 @@
-👨‍💻 Software Engineer Extraordinaire | 🌟 Spreading Joy through Code ✨
+👨‍💻 Full Stack Software Engineer | Short Stack Pancacke Enthusiast 🥞
 
 Hey there, coding peeps! 👋 I'm Andrew, a passionate software engineer with a knack for crafting elegant solutions to complex problems. 🚀
 
