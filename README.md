@@ -1,8 +1,6 @@
-### Hi there 👋
-
 👨‍💻 Software Engineer Extraordinaire | 🌟 Spreading Joy through Code ✨
 
-Hey there, fellow tech enthusiasts! 👋 I'm Andrew, a passionate software engineer with a knack for crafting elegant solutions to complex problems. 🚀
+Hey there, coding peeps! 👋 I'm Andrew, a passionate software engineer with a knack for crafting elegant solutions to complex problems. 🚀
 
 From an early age I've always had an interest in technology and the convenience it brings to people's lives! With a keen eye for detail and a creative mindset, I thrive on building intuitive and user-friendly applications that bring smiles to people's faces. 😄
 
